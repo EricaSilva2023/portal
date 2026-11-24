@@ -1,0 +1,67 @@
+{
+  "a11y": {
+    "skipToContent": "Ir direto para o conteúdo principal",
+    "mainNavigation": "Navegação principal",
+    "languageSelector": "Selecionar idioma do portal",
+    "toggleTheme": "Alternar entre tema claro e escuro",
+    "currentLanguage": "Idioma atual: Português do Brasil"
+  },
+  "nav": {
+    "rotulo": "Menu principal",
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "dashboards": "Painéis de Dados"
+  },
+  "theme": { "toggle": "Alternar entre tema claro e escuro" },
+  "footer": { "right": "Portal institucional fictício." },
+  "agency": {
+    "acronym": "AIFDR",
+    "fullName": "Agência de Integração Fronteiriça e Desenvolvimento Regional (AIFDR)",
+    "description": "A AIFDR coordena obras de infraestrutura, acordos comerciais e dados abertos na fronteira entre Brasil, Guiana e Venezuela.",
+    "address": "Praça do Centro Cívico, Boa Vista, Roraima, Brasil"
+  },
+  "home": {
+    "heroTitle": "Cooperação e transparência na fronteira norte",
+    "heroSummary": "Consulte acordos internacionais, guias para transporte de cargas e indicadores econômicos da região.",
+    "servicesHeading": "Serviços e Documentos Públicos",
+    "service1Title": "Guia de Trânsito Fronteiriço",
+    "service1Desc": "Veja os documentos exigidos para circulação de mercadorias nas aduanas de Pacaraima e Bonfim.",
+    "service1Link": "Acessar Manual Aduaneiro 2026 (PDF)",
+    "service2Title": "Acordos Bilaterais Vigentes",
+    "service2Desc": "Leia os tratados de cooperação energética, sanitária e educacional assinados entre os três países.",
+    "service2Link": "Consultar Lista de Tratados Internacionais",
+    "service3Title": "Observatório Econômico",
+    "service3Desc": "Acompanhe o fluxo mensal da balança comercial e a movimentação migratória em formato aberto.",
+    "service3Link": "Abrir Painel de Comércio Exterior"
+  },
+  "about": {
+    "pageTitle": "Sobre a Agência",
+    "heading": "Quem somos e o que fazemos",
+    "intro": "A Agência de Integração Fronteiriça e Desenvolvimento Regional (AIFDR) atua desde 2018 para facilitar o diálogo técnico e econômico entre comunidades vizinhas.",
+    "pillarsHeading": "Eixos de Atuação",
+    "pillar1Title": "Infraestrutura e Logística",
+    "pillar1Desc": "Planejamos melhorias nas rodovias BR-174 e BR-401 para reduzir o tempo de transporte regional.",
+    "pillar2Title": "Comércio e Pequenos Negócios",
+    "pillar2Desc": "Orientamos exportadores locais sobre regras sanitárias e tarifas alfandegárias.",
+    "pillar3Title": "Dados Abertos e Transparência",
+    "pillar3Desc": "Publicamos estatísticas mensais verificadas sem exigir cadastro do cidadão."
+  },
+  "dashboard": {
+    "pageTitle": "Painel de Comércio Exterior",
+    "heading": "Indicadores da Balança Comercial Fronteiriça",
+    "summary": "Valores consolidados das exportações e importações registradas nos postos de controle terrestre.",
+    "tableCaption": "Movimentação comercial trimestral em milhões de dólares (2026)",
+    "colCorridor": "Corredor Fronteiriço",
+    "colExports": "Exportações (US$ milhões)",
+    "colImports": "Importações (US$ milhões)",
+    "colBalance": "Saldo Comercial (US$ milhões)",
+    "corridorGuyana": "Brasil – Guiana (Bonfim / Lethem)",
+    "corridorVenezuela": "Brasil – Venezuela (Pacaraima / Santa Elena)",
+    "licenseTitle": "Licença Aberta Creative Commons CC0 (Domínio Público)",
+    "licenseText": "A AIFDR dedica estes conjuntos de dados ao domínio público. Você pode copiar, modificar e distribuir os arquivos livremente sem pedir autorização.",
+    "downloadCsv": "Baixar série histórica em CSV",
+    "downloadJson": "Baixar série histórica em JSON",
+    "downloadXlsx": "Baixar série histórica em XLSX"
+  }
+}
