@@ -13,59 +13,62 @@
     "services": "Servicios",
     "dashboards": "Paneles de Datos"
   },
-  "theme": { "toggle": "Cambiar entre tema claro y oscuro" },
-  "footer": { "right": "Portal institucional ficticio." },
+  "theme": {
+    "toggle": "Cambiar entre tema claro y oscuro"
+  },
+  "footer": {
+    "right": "Portal institucional ficticio."
+  },
   "agency": {
     "acronym": "AIFDR",
     "fullName": "Agencia de Integración Fronteriza y Desarrollo Regional (AIFDR)",
     "description": "La AIFDR coordina obras de infraestructura, acuerdos comerciales y datos abiertos en la frontera entre Brasil, Guyana y Venezuela.",
     "address": "Plaza del Centro Cívico, Boa Vista, Roraima, Brasil"
   },
-  "home": {
-    "heroTitle": "Cooperación y transparencia en la frontera norte",
-    "heroSummary": "Consulte acuerdos internacionales, guías para transporte de carga e indicadores económicos de la región.",
-    "servicesHeading": "Servicios y Documentos Públicos",
-    "service1Title": "Guía de Tránsito Fronterizo",
-    "service1Desc": "Vea los documentos exigidos para la circulación de mercancías en las aduanas de Pacaraima y Bonfim.",
-    "service1Link": "Acceder al Manual Aduanero 2026 (PDF)",
-    "service2Title": "Acuerdos Bilaterales Vigentes",
-    "service2Desc": "Lea los tratados de cooperación energética, sanitaria y educativa firmados entre los tres países.",
-    "service2Link": "Consultar Lista de Tratados Internacionales",
-    "service3Title": "Observatorio Económico",
-    "service3Desc": "Siga el flujo mensual de la balanza comercial y el movimiento migratorio en formato abierto.",
-    "service3Link": "Abrir Panel de Comercio Exterior"
-  },
-  "about": {
-    "pageTitle": "Sobre la Agencia",
-    "heading": "Quiénes somos y qué hacemos",
-    "intro": "La Agencia de Integración Fronteriza y Desarrollo Regional (AIFDR) actúa desde 2018 para facilitar el diálogo técnico y económico entre comunidades vecinas.",
-    "pillarsHeading": "Ejes de Actuación",
-    "pillar1Title": "Infraestructura y Logística",
-    "pillar1Desc": "Planificamos mejoras en las carreteras BR-174 y BR-401 para reducir el tiempo de transporte regional.",
-    "pillar2Title": "Comercio y Pequeños Negocios",
-    "pillar2Desc": "Orientamos a exportadores locales sobre normas sanitarias y aranceles aduaneros.",
-    "pillar3Title": "Datos Abiertos y Transparencia",
-    "pillar3Desc": "Publicamos estadísticas mensuales verificadas sin exigir registro ciudadano."
-  },
-  "dashboard": {
-    "pageTitle": "Panel de Comercio Exterior",
-    "heading": "Indicadores de la Balanza Comercial Fronteriza",
-    "summary": "Valores consolidados de las exportaciones e importaciones registradas en los puestos de control terrestre.",
-    "tableCaption": "Movimiento comercial trimestral en millones de dólares (2026)",
-    "colCorridor": "Corredor Fronterizo",
-    "colExports": "Exportaciones (US$ millones)",
-    "colImports": "Importaciones (US$ millones)",
-    "colBalance": "Saldo Comercial (US$ millones)",
-    "corridorGuyana": "Brasil – Guyana (Bonfim / Lethem)",
-    "corridorVenezuela": "Brasil – Venezuela (Pacaraima / Santa Elena)",
-    "licenseTitle": "Licencia Abierta Creative Commons CC0 (Dominio Público)",
-    "licenseText": "La AIFDR dedica estos conjuntos de datos al dominio público. Puede copiar, modificar y distribuir los archivos libremente sin pedir autorización.",
-    "downloadCsv": "Descargar serie histórica en CSV",
-    "downloadJson": "Descargar serie histórica en JSON",
-    "downloadXlsx": "Descargar serie histórica en XLSX"
-  },
-  "electoral": {
-    "noticeTitle": "Contenido suspendido por legislación electoral",
-    "noticeDescription": "En cumplimiento de la Ley Federal nº 9.504/1997, las noticias e informes institucionales permanecen suspendidos durante el período electoral. Los servicios esenciales y datos abiertos siguen disponibles."
+  "pages": {
+    "home": {
+      "pageTitle": "Portal Institucional de la AIFDR",
+      "heroTitle": "Cooperación y transparencia en la frontera norte",
+      "heroSummary": "Consulte acuerdos internacionales, guías para transporte de carga e indicadores económicos de la región.",
+      "servicesHeading": "Servicios y Documentos Públicos",
+      "service1Title": "Guía de Tránsito Fronterizo",
+      "service1Desc": "Vea los documentos exigidos para la circulación de mercancías en las aduanas de Pacaraima y Bonfim.",
+      "service1Link": "Acceder al Manual Aduanero 2026 (PDF)",
+      "service2Title": "Acuerdos Bilaterales Vigentes",
+      "service2Desc": "Lea los tratados de cooperación energética, sanitaria y educativa firmados entre los tres países.",
+      "service2Link": "Consultar Lista de Tratados Internacionales",
+      "service3Title": "Observatorio Económico",
+      "service3Desc": "Siga el flujo mensual de la balanza comercial y el movimiento migratorio en formato abierto.",
+      "service3Link": "Abrir Panel de Comercio Exterior"
+    },
+    "about": {
+      "pageTitle": "Sobre la Agencia",
+      "heading": "Quiénes somos y qué hacemos",
+      "intro": "La Agencia de Integración Fronteriza y Desarrollo Regional (AIFDR) actúa desde 2018 para facilitar el diálogo técnico y económico entre comunidades vecinas.",
+      "pillarsHeading": "Ejes de Actuación",
+      "pillar1Title": "Infraestructura y Logística",
+      "pillar1Desc": "Planificamos mejoras en las carreteras BR-174 y BR-401 para reducir el tiempo de transporte regional.",
+      "pillar2Title": "Comercio y Pequeños Negocios",
+      "pillar2Desc": "Orientamos a exportadores locales sobre normas sanitarias y aranceles aduaneros.",
+      "pillar3Title": "Datos Abiertos y Transparencia",
+      "pillar3Desc": "Publicamos estadísticas mensuales verificadas sin exigir registro ciudadano."
+    },
+    "dashboard": {
+      "pageTitle": "Panel de Comercio Exterior",
+      "heading": "Indicadores de la Balanza Comercial Fronteriza",
+      "summary": "Valores consolidados de las exportaciones e importaciones registradas en los puestos de control terrestre.",
+      "tableCaption": "Movimiento comercial trimestral en millones de dólares (2026)",
+      "colCorridor": "Corredor Fronterizo",
+      "colExports": "Exportaciones (US$ millones)",
+      "colImports": "Importaciones (US$ millones)",
+      "colBalance": "Saldo Comercial (US$ millones)",
+      "corridorGuyana": "Brasil – Guyana (Bonfim / Lethem)",
+      "corridorVenezuela": "Brasil – Venezuela (Pacaraima / Santa Elena)",
+      "licenseTitle": "Licencia Abierta Creative Commons CC0 (Dominio Público)",
+      "licenseText": "La AIFDR dedica estos conjuntos de datos al dominio público. Puede copiar, modificar y distribuir los archivos libremente sin pedir autorización.",
+      "downloadCsv": "Descargar serie histórica en CSV",
+      "downloadJson": "Descargar serie histórica en JSON",
+      "downloadXlsx": "Descargar serie histórica en XLSX"
+    }
   }
 }

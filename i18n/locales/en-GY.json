@@ -13,59 +13,62 @@
     "services": "Services",
     "dashboards": "Data Dashboards"
   },
-  "theme": { "toggle": "Switch between light and dark theme" },
-  "footer": { "right": "Fictional institutional portal." },
+  "theme": {
+    "toggle": "Switch between light and dark theme"
+  },
+  "footer": {
+    "right": "Fictional institutional portal."
+  },
   "agency": {
     "acronym": "AIFDR",
     "fullName": "Agency for Border Integration and Regional Development (AIFDR)",
     "description": "AIFDR coordinates infrastructure projects, trade agreements, and open data across the Brazil, Guyana, and Venezuela borders.",
     "address": "Civic Center Square, Boa Vista, Roraima, Brazil"
   },
-  "home": {
-    "heroTitle": "Cooperation and transparency at the northern border",
-    "heroSummary": "Access international agreements, freight transport guides, and regional economic indicators.",
-    "servicesHeading": "Public Services and Documents",
-    "service1Title": "Border Transit Guide",
-    "service1Desc": "Review the documents required for moving goods through the Pacaraima and Bonfim customs posts.",
-    "service1Link": "Access 2026 Customs Manual (PDF)",
-    "service2Title": "Active Bilateral Agreements",
-    "service2Desc": "Read energy, health, and education cooperation treaties signed among the three countries.",
-    "service2Link": "View List of International Treaties",
-    "service3Title": "Economic Observatory",
-    "service3Desc": "Track monthly trade balance flows and migration movement in open formats.",
-    "service3Link": "Open Foreign Trade Dashboard"
-  },
-  "about": {
-    "pageTitle": "About the Agency",
-    "heading": "Who we are and what we do",
-    "intro": "The Agency for Border Integration and Regional Development (AIFDR) has worked since 2018 to facilitate technical and economic dialogue among neighboring communities.",
-    "pillarsHeading": "Areas of Action",
-    "pillar1Title": "Infrastructure and Logistics",
-    "pillar1Desc": "We plan improvements along highways BR-174 and BR-401 to reduce regional transit times.",
-    "pillar2Title": "Trade and Small Businesses",
-    "pillar2Desc": "We guide local exporters on sanitary rules and customs tariffs.",
-    "pillar3Title": "Open Data and Transparency",
-    "pillar3Desc": "We publish verified monthly statistics without requiring citizen registration."
-  },
-  "dashboard": {
-    "pageTitle": "Foreign Trade Dashboard",
-    "heading": "Border Trade Balance Indicators",
-    "summary": "Consolidated export and import values recorded at overland control posts.",
-    "tableCaption": "Quarterly trade volume in millions of US dollars (2026)",
-    "colCorridor": "Border Corridor",
-    "colExports": "Exports (US$ million)",
-    "colImports": "Imports (US$ million)",
-    "colBalance": "Trade Balance (US$ million)",
-    "corridorGuyana": "Brazil – Guyana (Bonfim / Lethem)",
-    "corridorVenezuela": "Brazil – Venezuela (Pacaraima / Santa Elena)",
-    "licenseTitle": "Creative Commons CC0 Open License (Public Domain)",
-    "licenseText": "AIFDR dedicates these datasets to the public domain. You may copy, modify, and distribute the files freely without asking permission.",
-    "downloadCsv": "Download historical series in CSV",
-    "downloadJson": "Download historical series in JSON",
-    "downloadXlsx": "Download historical series in XLSX"
-  },
-  "electoral": {
-    "noticeTitle": "Content suspended under electoral law",
-    "noticeDescription": "In compliance with Federal Law No. 9,504/1997, news and institutional announcements remain suspended during the election period. Essential services and open data remain available."
+  "pages": {
+    "home": {
+      "pageTitle": "AIFDR Institutional Portal",
+      "heroTitle": "Cooperation and transparency at the northern border",
+      "heroSummary": "Access international agreements, freight transport guides, and regional economic indicators.",
+      "servicesHeading": "Public Services and Documents",
+      "service1Title": "Border Transit Guide",
+      "service1Desc": "Review the documents required for moving goods through the Pacaraima and Bonfim customs posts.",
+      "service1Link": "Access 2026 Customs Manual (PDF)",
+      "service2Title": "Active Bilateral Agreements",
+      "service2Desc": "Read energy, health, and education cooperation treaties signed among the three countries.",
+      "service2Link": "View List of International Treaties",
+      "service3Title": "Economic Observatory",
+      "service3Desc": "Track monthly trade balance flows and migration movement in open formats.",
+      "service3Link": "Open Foreign Trade Dashboard"
+    },
+    "about": {
+      "pageTitle": "About the Agency",
+      "heading": "Who we are and what we do",
+      "intro": "The Agency for Border Integration and Regional Development (AIFDR) has worked since 2018 to facilitate technical and economic dialogue among neighboring communities.",
+      "pillarsHeading": "Areas of Action",
+      "pillar1Title": "Infrastructure and Logistics",
+      "pillar1Desc": "We plan improvements along highways BR-174 and BR-401 to reduce regional transit times.",
+      "pillar2Title": "Trade and Small Businesses",
+      "pillar2Desc": "We guide local exporters on sanitary rules and customs tariffs.",
+      "pillar3Title": "Open Data and Transparency",
+      "pillar3Desc": "We publish verified monthly statistics without requiring citizen registration."
+    },
+    "dashboard": {
+      "pageTitle": "Foreign Trade Dashboard",
+      "heading": "Border Trade Balance Indicators",
+      "summary": "Consolidated export and import values recorded at overland control posts.",
+      "tableCaption": "Quarterly trade volume in millions of US dollars (2026)",
+      "colCorridor": "Border Corridor",
+      "colExports": "Exports (US$ million)",
+      "colImports": "Imports (US$ million)",
+      "colBalance": "Trade Balance (US$ million)",
+      "corridorGuyana": "Brazil – Guyana (Bonfim / Lethem)",
+      "corridorVenezuela": "Brazil – Venezuela (Pacaraima / Santa Elena)",
+      "licenseTitle": "Creative Commons CC0 Open License (Public Domain)",
+      "licenseText": "AIFDR dedicates these datasets to the public domain. You may copy, modify, and distribute the files freely without asking permission.",
+      "downloadCsv": "Download historical series in CSV",
+      "downloadJson": "Download historical series in JSON",
+      "downloadXlsx": "Download historical series in XLSX"
+    }
   }
 }
